@@ -1,0 +1,7 @@
+col-sm-2 column of width 2
+navbar-fixed-top top fixed navigation bar
+style="overflow-x:auto;" to put scrollbar on table if screen too short
+hover to change when cursor on text
+display:block;  to display as a block
+text-align to align block type elemnts
+position:absolute position relative to nearest element
